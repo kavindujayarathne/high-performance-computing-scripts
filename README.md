@@ -33,7 +33,7 @@ To run these scripts in Visual Studio Code, follow these steps to set up the env
   <li>If you haven't already installed the relevant Jupyter extensions, VS Code will suggest you install them first.</li>
   <br>
 
-![demo-img 1](https://raw.githubusercontent.com/kavindujayarathne/high-performance-computing-scripts/master/public/demo-img1.png)
+![demo-img 1](https://raw.githubusercontent.com/kavindujayarathne/high-performance-computing-scripts/main/public/demo-img1.png)
 
   <li>Once the Jupyter extensions are installed, VS Code will usually handle the next steps automatically.</li>
 
@@ -44,7 +44,7 @@ To run these scripts in Visual Studio Code, follow these steps to set up the env
   <li>You will see two options: Python Environments and Existing Jupyter Server.</li>
   <br>
 
-![demo-img 2](https://raw.githubusercontent.com/kavindujayarathne/high-performance-computing-scripts/master/public/demo-img2.png)
+![demo-img 2](https://raw.githubusercontent.com/kavindujayarathne/high-performance-computing-scripts/main/public/demo-img2.png)
 
   <ul>
     <li>If you have Python installed on your system, choose Python Environments and select the relevant Python environment.</li>

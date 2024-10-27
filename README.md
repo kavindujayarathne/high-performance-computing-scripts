@@ -104,6 +104,6 @@ nvcc -o enc encrypt.cu
 
 ## Licensing
 
-This repository is licensed under the MIT License. See the [`LICENSE`](./LICENSE) file for more details.
+This repository is licensed under the MIT License. See the [`LICENSE`](https://github.com/kavindujayarathne/high-performance-computing-scripts/blob/main/LICENSE) file for more details.
 
-Some scripts include third-party code with its own licenses. Please see the [`THIRD_PARTY_LICENSES.md`](https://raw.githubusercontent.com/kavindujayarathne/high-performance-computing-scripts/main/THIRD_PARTY_LICENSES.md) file for details.
+Some scripts include third-party code with its own licenses. Please see the [`THIRD_PARTY_LICENSES.md`](./THIRD_PARTY_LICENSES.md) file for details.
